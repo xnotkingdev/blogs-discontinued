@@ -1,7 +1,1 @@
-
-const Blogs = {
-    fetch: () => {
-        $("#blogs").load('blogs.asp')
-    }
-}
-Blogs.fetch()
+const Blogs={fetch:()=>{$("#blogs").load("blogs.asp")}};Blogs.fetch();
