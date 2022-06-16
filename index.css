@@ -16,6 +16,11 @@ body {
     overflow-y: scroll;
     padding-bottom: 1em;
 }
+h3, h2, h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
 /*navbar*/
 nav {
     background-color: #111111;
