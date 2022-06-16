@@ -16,7 +16,7 @@ body {
     overflow-y: scroll;
     padding-bottom: 1em;
 }
-h3, h2, h1 {
+h3, h2, h1, h4 {
     margin-top: 20px;
     margin-bottom: 20px;
     text-transform: uppercase;
