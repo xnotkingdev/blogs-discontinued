@@ -7,7 +7,8 @@
 }
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: calc(2vmin + 14px);
+    line-height: 20px;
     background: #fff;
     color: #000;
     height: 100%;
